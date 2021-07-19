@@ -2,8 +2,8 @@
 Weather Observation Station 13
 
 HackerRank Problem Solved using MYSQL.
-
 */
+
 
 /*
 Enter your query here.
