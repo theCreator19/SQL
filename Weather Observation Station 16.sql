@@ -6,6 +6,7 @@ Weather Observation Station 16
 HackerRank Problem Solved using MYSQL.
 */
 
+
 /*
 Enter your query here.
 */
